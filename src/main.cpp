@@ -63,5 +63,5 @@ int main()
 
   plt::show();
 
-  return 0;
+  return 1;
 }
